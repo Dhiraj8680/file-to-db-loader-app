@@ -1,0 +1,6 @@
+ipython-sql
+psycopg2-binary
+sqlalchemy
+prettytable==3.9.0
+pandas==2.3.3
+python-dotenv
